@@ -1,6 +1,6 @@
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jpiechowka&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpiechowka&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpiechowka&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
